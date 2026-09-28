@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-920-feat-frontend-campaign-creator-profile-showcase",
+    "feat/issue-923-feat-contract-campaign-tree-species-diversity",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-920-feat-frontend-campaign-creator-profile-showcase": "main",
+    "feat/issue-923-feat-contract-campaign-tree-species-diversity": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-920-feat-frontend-campaign-creator-profile-showcase",
+    "feat/issue-923-feat-contract-campaign-tree-species-diversity",
+    "origin"
+  ]
+}
